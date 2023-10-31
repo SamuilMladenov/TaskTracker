@@ -1,0 +1,14 @@
+TODO:
+- *Make a simple password checker - DONE
+- Update the password manager to hash type file (There was a tutorial by by BroCode)
+- *After the check is passed - new Page with 3 buttons - Add Task, (Edit Task, Delete Task) - DONE
+- Add Task - Empty text fields for needed info - check real spreadsheet
+- Edit Tasks - List of Task names as buttons, after click - a page with the info that can be edited
+- Delete Task - List of Task names as buttons, after click confirmation and then delete
+- * FIX: Bug with two frames - you gotta delete one of the two frames in the two classes - DONE
+- Add the backend of the Selection Button menu (use .dispose() to close previous windows)
+- Add the 3 new widows for the buttons
+- Tie the forms for tasks to a spreadsheet/CSV
+
+Possible future Updates:
+- DB for the passwords
