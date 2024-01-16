@@ -1,4 +1,4 @@
-# Project Report: Task Tracker Aplication
+# Project Report: Task Tracker Application
 
 # Project description
 The Task Tracker Application is designed to help users manage and track their working tasks efficiently. It provides a user-friendly interface for adding, editing, and deleting tasks, as well as handling delete and edit requests. The application uses Java with the Swing library for the graphical user interface (GUI) and Apache POI for working with Excel files to store task data.
@@ -12,9 +12,9 @@ The Task Tracker Application allows users to perform the following actions:
 
 - Delete Tasks: Users can request the deletion of tasks. Similar to edit requests, these delete requests can be accepted or declined.
 
-- View Edit Requests: The application displays a list of edit requests, allowing the Executive Director (or person responsible in the company) to choose which tasks to edit as requested from the workers.
+- View Edit Requests: The application displays a list of edit requests, allowing the Executive Director (or person responsible in the company) to choose which tasks to edit as the workers request.
 
-- View Delete Requests: The application displays a list of delete requests, allowing the Executive Director (or person responsible in the company) to choose which tasks to delete as requested from the workers.
+- View Delete Requests: The application displays a list of delete requests, allowing the Executive Director (or person responsible in the company) to choose which tasks to delete as requested by the workers.
 
 # Why You Used the Technologies You Used
 Java with Swing
@@ -49,8 +49,8 @@ The Task Tracker Application aims to evolve with additional features in the futu
 # How to Use the Project
 Add a New Task:
 1. Launch the application.
-2. Log in by choosing your position and inputing your password.
-3. Click on task operation of your choice.
+2. Log in by choosing your position and inputting your password.
+3. Click on the task operation of your choice.
 4. Fill out the information (for Add Task) or choose a Task (For Edit/Delete task)
 
 Navigate Back:
