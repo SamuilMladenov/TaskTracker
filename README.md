@@ -1,9 +1,5 @@
 # Project Report: Task Tracker Aplication
 
-# Project Title
-
-Task Tracker Application
-
 # Project description
 The Task Tracker Application is designed to help users manage and track their working tasks efficiently. It provides a user-friendly interface for adding, editing, and deleting tasks, as well as handling delete and edit requests. The application uses Java with the Swing library for the graphical user interface (GUI) and Apache POI for working with Excel files to store task data.
 
